@@ -1,0 +1,41 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_large": false
+      }
+    },
+    "1631695119735c6fe5": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "Sub-heading",
+        "title": "calculate-page1",
+        "html": "<p>Write your own custom HTML content<\/p>"
+      }
+    },
+    "16324501835f821fcc": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "Sub-heading",
+        "title": "calculate-bike-bottom",
+        "html": ""
+      }
+    },
+    "1629795908485d4358": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "Sub-heading",
+        "title": "footer nav",
+        "html": "<p>Write your own custom HTML content<\/p>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1631695119735c6fe5",
+    "16324501835f821fcc",
+    "1629795908485d4358"
+  ]
+}

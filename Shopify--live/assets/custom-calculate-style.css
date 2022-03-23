@@ -1,0 +1,552 @@
+#section-template--15138452668601__1631695119735c6fe5, #section-template--15138447917241__1631695119735c6fe5{
+  padding: 0;
+}
+.calculate-content .Button--primary[disabled]::before {
+  background-color: #ccc;
+}
+.calculate1-content .Button--primary[disabled]::before {
+  background-color: #ccc;
+}
+/*
+calculate
+比价第一页
+填写信息
+*/
+.calculate-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 780px;
+}
+.calculate-content-l{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 37.5%;
+  height: 100%;
+  background: url("https://cdn.shopifycdn.net/s/files/1/0592/3766/2905/files/calculate_parity_2.png?v=1631773833") no-repeat;
+  background-size: 100%;
+  padding: 146px 0 0 160px;
+}
+.compare{
+  width: 451px;
+  height: 76px;
+  font-size: 36px;
+  font-weight: bold;
+  color: #333;
+  line-height: 38px;
+  margin-bottom: 50px;
+}
+.calculate{
+  width: 410px;
+  height: 113px;
+  font-size: 16px;
+}
+.calculate-content-r{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 62.5%;
+  height: 100%;
+  background: #fff;
+  padding: 146px 0 0 260px;
+}
+.progressBar{
+/*   display: flex; */
+  width: 4px;
+  height: 120px;
+  background: #D8D8D8;
+  margin-right: 66px;
+}
+.progress{
+  width: 100%;
+  height: 0;
+  background: #02C0D9;
+}
+.progress1{
+  height: 33.33%;
+}
+.progress2{
+  height: 66.66%;
+}
+.progress3{
+  height: 100%;
+}
+.prohibitClick{
+  pointer-events: none;
+}
+.unselected{
+  color: rgba(51, 51, 51, 0.4) !important;
+}
+/* .exerciseInformation .Button--primary::before{
+	background-color: #eee;
+} */
+.exerciseInfo{
+  position: relative;
+  margin-bottom: 50px;
+  color: rgba(51, 51, 51, 0.4);
+}
+.exerciseInfo-people, .exerciseInfo-price, .exerciseInfo-week{
+  color: rgba(51, 51, 51, 1);
+}
+.exerciseInfoPeopleDisabled{
+  display: none;
+  color: rgba(51, 51, 51, 0.4);
+}
+.exerciseInfo-valueDisabled{
+  color: rgba(51, 51, 51, 0.4);
+}
+.exerciseInfo-text{
+  font-size: 16px;
+  font-weight: 400;
+/*   color: #333; */
+  line-height: 19px;
+  margin-bottom: 48px;
+}
+.exerciseInfo-value{
+  font-size: 22px;
+  font-weight: 500;
+/*   color: #333; */
+  line-height: 27px;
+  -webkit-appearance:none; 
+  padding-right: 5%;
+  border-radius: 0;
+}
+#exerciseInfoWeek{
+  -webkit-appearance:none; 
+  border-radius: 0;
+}
+#exerciseInfoWeek1{
+  -webkit-appearance:none; 
+}
+.exerciseInfo-value-flex{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.exerciseInfo-value-bottom{
+  min-width: 108px;
+  border: 0;
+  border-bottom: 1px solid;
+}
+.content-r-button{
+  width: 268px !important;
+}
+.content-r-button[disabled]{
+  border-color: #ccc;
+}
+.price-input{
+  width: 88px;
+  border: 0;
+}
+.price-input::-webkit-input-placeholder{
+  color: rgba(51, 51, 51, 0.4);
+}
+.mouseDisabled{
+  cursor:not-allowed;
+}
+#exerciseInfo-people-arrow{
+  position: absolute;
+  left: 30%;
+  bottom: 15%;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid rgba(51, 51, 51, 0.4);
+  pointer-events: none;
+}
+#exerciseInfo-week-arrow{
+  position: absolute;
+  left: 21%;
+  bottom: 15%;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid rgba(51, 51, 51, 0.4);
+  pointer-events: none;
+}
+
+/*
+calculate1
+比价第二页
+比较方案
+*/
+.calculate1-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 928px;
+}
+.calculate1-content-l{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 29%;
+  height: 100%;
+  background: url("https://cdn.shopifycdn.net/s/files/1/0592/3766/2905/files/calculate_parity_1.png?v=1631773833") no-repeat;
+  background-size: 100%;
+  padding: 120px 0 0 120px;
+}
+.calculate1-content-r{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 71%;
+  height: 100%;
+  background: #fff;
+}
+.exerciseInfo1{
+  margin-bottom: 64px;
+  position: relative;
+}
+.exerciseInfo1-text{
+  height: 24px;
+  margin-bottom: 18px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #333;
+  line-height: 24px;
+}
+.exerciseInfo1-value{
+  
+}
+.exerciseInfo1-input{
+  width: 268px;
+  height: 40px;
+  background: transparent;
+  border-radius: 6px !important;
+  border: 1px solid #333;
+  padding: 10px 26px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #333;
+  line-height: 19px;
+}
+.content1-l-button{
+  width: 268px !important;
+}
+.content1-l-button[disabled]{
+  border-color: #ccc;
+}
+.content1-r-button{
+  width: 268px !important;
+}
+.tab{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 6px;
+  background: #F4F6F8;
+  border-radius: 38px;
+}
+.tab-a{
+  opacity: 0.5;
+  cursor:pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 240px;
+  height: 64px;
+  background: transparent;
+}
+.tab-a-selected{
+  pointer-events: none;
+  opacity: 1;
+  background: #FFF;
+  box-shadow: 0px 6px 16px 0px rgba(0, 0, 0, 0.14);
+  border-radius: 35px;
+}
+.tab-t{
+  font-size: 16px;
+  font-weight: 600;
+  color: #333;
+  line-height: 19px;
+}
+.tab-b{
+  font-size: 12px;
+  font-weight: 400;
+  color: #999;
+  line-height: 15px;
+}
+.tab-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #EFF9FE;
+  border-radius: 20px;
+  margin: 50px 0 56px;
+  padding: 3px;
+}
+.priceInformation{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 460px;
+  height: 600px;
+  padding: 0 22px;
+}
+.priceInformation-l{
+  color: #333;
+  background: #FFF;
+  border-radius: 20px 0px 0px 20px;
+}
+.priceInformation-r{ 
+  background: #EFF9FE;
+  border-radius: 0px 20px 20px 0px;
+}
+.priceInfo-title{
+  margin: 73px 0 22px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #333;
+  line-height: 19px;
+}
+.priceInfo-title-r{
+  color: #02C0D9;
+}
+.priceInfo-price-r{
+  color: #02C0D9;
+}
+.priceInfo-table-td{
+  color: #02C0D9;
+}
+.priceInfo-price{
+  font-size: 54px;
+  font-weight: 600;
+  color: #333;
+  line-height: 66px;
+  letter-spacing: 1px;
+}
+.priceInfo-price span{
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+}
+.priceInfo-text{
+  margin: 20px 0 44px;
+  font-size: 12px;
+  font-weight: 400;
+  color: #333;
+  line-height: 15px;
+}
+.priceInfo-table{
+  width: 420px;
+  height: 175px;
+/*   border: 1px solid #D3D3D3; */
+}
+.priceInfo-table th{
+/*   border: 1px solid #D3D3D3; */
+  text-align: left;
+  padding-left: 8px;
+}
+.priceInfo-table-tdBorder{
+  border: 1px solid #D3D3D3;
+}
+.priceInfo-table-tdBorder th{
+  border-right: 1px solid #D3D3D3;
+}
+.priceInfo-table-tr td{
+  font-size: 12px;
+}
+.priceInfo-annotation{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: 14px 0 0;
+  font-size: 12px;
+  font-weight: 400;
+  color: #333;
+  line-height: 15px;
+}
+.priceInfo-visibility{
+  visibility:hidden;
+}
+.priceInfo-table-visibility{
+  visibility:hidden;
+  border: 0;
+}
+.priceInfo-table-visibility th{
+  border-right: 0;
+}
+#exerciseInfo1-people-arrow{
+  position: absolute;
+  right: 5%;
+  bottom: 20%;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid rgba(51, 51, 51, 1);
+  pointer-events: none;
+}
+@media only screen and (min-width: 100px) and (max-width: 640px) {
+  /*比价第一页 填写信息*/
+  .calculate-content{
+  	display: block;
+    height: max-content;
+  }
+  .calculate-content-l{
+  	width: 100%;
+    height: auto;
+    padding: 50px 0 50px 50px;
+  }
+  .compare{
+  	width: 300px;
+    margin-bottom: 80px;
+  }
+  .calculate{
+  	width: 300px;
+  }
+  .calculate-content-r{
+  	width: 100%;
+    padding: 30px 0 0 10px;
+  }
+  .progressBar{
+  	margin-right: 40px;
+  }
+  #exerciseInfo-people-arrow{
+    left: 40%;
+  }
+  #exerciseInfo-week-arrow{
+    left: 28%;
+  }
+  
+  /*比价第二页 比较方案*/
+  .calculate1-content{
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;
+    height: max-content;
+  }
+  .calculate1-content-l{
+    align-items: center;
+    width: 100%;
+    padding: 30px 0;
+  }
+  .calculate1-content-r{
+    width: 100%;
+  }
+  .tab{
+    width: 100%;
+    margin-top: 50px;
+  }
+  .tab-content{
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+    width: 100%;
+  }
+  .priceInformation{
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;
+    height: max-content;
+  }
+  .priceInformation-l{
+  	border-radius:  0 0 20px 20px;
+  }
+  .priceInformation-r{
+    border-radius: 20px 20px 0 0;
+  }
+  .priceInfo-table{
+  	width: 100%;
+    font-size: 14px;
+  }
+}
+@media only screen and (min-width: 641px) and (max-width: 1024px) {
+  .calculate-content-l{
+  	padding: 30px 0 0 30px;
+  }
+  .compare{
+  	width: 90%;
+    height: auto;
+    font-size: 16px;
+  }
+  .calculate {
+    width: 100%;
+    height: auto;
+    font-size: 14px;
+  }
+  .calculate-content-r{
+  	padding: 30px 0 0 30px;
+  }
+  .progressBar{
+    margin-right: 33px;
+  }
+  
+  
+  
+  .calculate1-content{
+  	flex-direction: column;
+    justify-content: flex-start;
+    height: auto;
+  }
+  .calculate1-content-l{
+  	flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    padding: 50px 0;
+  }
+  .calculate1-content-r{
+  	width: 100%;
+    height: auto;
+    padding-top: 50px;
+  }
+  .priceInformation{
+  	width: 360px;
+    height: auto;
+    padding: 30px 22px;
+  }
+  .priceInfo-table{
+  	width: 100%;
+    font-size: 14px;
+  }
+}
+@media only screen and (min-width: 1025px) and (max-width: 1366px) {
+  .calculate-content-l{
+  	padding: 6% 0 0 3%;
+  }
+  .compare{
+  	width: 90%;
+  }
+  .calculate{
+  	width: 80%
+  }
+  .calculate-content-r{
+  	padding: 6% 0 0 6%;
+  }
+  .calculate1-content-l{
+  	padding: 5% 0 0 5%;
+  }
+  .priceInformation{
+  	width: 360px;
+    height: auto;
+    padding: 30px 22px;
+  }
+  .priceInfo-table{
+  	width: 350px;
+    font-size: 14px;
+  }
+}
+@media only screen and (min-width: 1367px) and (max-width: 1900px) {
+  .calculate-content-l{
+  	padding: 6% 0 0 6%;
+  }
+  .compare{
+  	width: 100%;
+  }
+  .calculate{
+  	width: 80%
+  }
+  .calculate-content-r{
+  	padding: 6% 0 0 6%;
+  }
+  .calculate1-content-l{
+  	padding: 5% 0 0 5%;
+  }
+}

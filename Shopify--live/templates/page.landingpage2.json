@@ -1,0 +1,81 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_large": false
+      }
+    },
+    "16367739950ccf46f0": {
+      "type": "slideshow",
+      "blocks": {
+        "1636773995a5884c81-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/landingpage2.png",
+            "mobile_image": "shopify:\/\/shop_images\/landingpage4.png",
+            "apply_overlay": true,
+            "content_position": "middleRight",
+            "subheading": "xbike $1499 NOW $949",
+            "title": "$550 off limited time",
+            "button_1_text": "BUY BIKE",
+            "button_1_link": "shopify:\/\/products\/xbike",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "1636773995a5884c81-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/landingpage2.png",
+            "mobile_image": "shopify:\/\/shop_images\/landingpage4.png",
+            "apply_overlay": true,
+            "content_position": "middleRight",
+            "subheading": "xbike $1499 NOW $949",
+            "title": "Pay as low as $26\/mo. at 0% APR¹ with Klarna",
+            "button_1_text": "BUY BIKE",
+            "button_1_link": "shopify:\/\/products\/xbike",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1636773995a5884c81-0",
+        "1636773995a5884c81-1"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 3,
+        "text_color": "#ffffff",
+        "button_color": "#ffffff",
+        "button_background": "#02c0d9"
+      }
+    },
+    "16367751815e9c8662": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "Sub-heading",
+        "title": "calculate-bike-bottom",
+        "html": ""
+      }
+    },
+    "1629795908485d4358": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "Sub-heading",
+        "title": "footer nav",
+        "html": "<p>Write your own custom HTML content<\/p>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16367739950ccf46f0",
+    "16367751815e9c8662",
+    "1629795908485d4358"
+  ]
+}

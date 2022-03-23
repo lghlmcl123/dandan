@@ -1,0 +1,9 @@
+@media screen and (max-width: 640px){
+  /* banner标题 */
+  #Slide16291170491e235167-0 .u-h1, #Slideslide-0 .u-h1, #Slide94d71825-7281-484b-a802-e82b5d81864d .u-h1, #Slide16291157549cb957f3-0 .u-h1{
+      font-size: 30px!important;
+  }
+  #Slide16291170491e235167-0 .u-h6, #Slideslide-0 .u-h6, #Slide94d71825-7281-484b-a802-e82b5d81864d .u-h6, #Slide16291157549cb957f3-0 .u-h6{
+	font-size: 16px!important;
+	}
+}

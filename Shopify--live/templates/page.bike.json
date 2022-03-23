@@ -1,0 +1,486 @@
+{
+  "sections": {
+    "1629084495f8689562": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "xbike_top",
+        "html": ""
+      }
+    },
+    "16291170491e235167": {
+      "type": "slideshow",
+      "blocks": {
+        "16291170491e235167-0": {
+          "type": "image",
+          "settings": {
+            "mobile_image": "shopify:\/\/shop_images\/xbike-shopO_I_-_OAE.jpg",
+            "apply_overlay": true,
+            "content_position": "middleLeft",
+            "subheading": "Buy the xbike now for $949 and save even more with 45-day free membership.",
+            "title": "INTRODUCING XBIKE",
+            "button_1_text": "BUY BIKE",
+            "button_1_link": "shopify:\/\/products\/xbike",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16291170491e235167-0"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#ffffff",
+        "button_background": "#02c0d9"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_large": false
+      }
+    },
+    "16291076475b394b4f": {
+      "type": "slideshow",
+      "blocks": {
+        "16291076475b394b4f-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Preorder__1.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "PRE-ORDER",
+            "button_2_link": "shopify:\/\/pages\/xbike"
+          }
+        },
+        "4da8fe57-2161-470a-8113-6e9054beabaf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pre-order_banner_8b52e513-a72f-40d0-ab81-601867c4649f.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/new.jpg",
+            "apply_overlay": false,
+            "content_position": "middleCenter",
+            "subheading": "Sign up now to get a $200 OFF voucher,  free assembly service,  and 45-day membership.",
+            "title": "xbike: Gamified Studio Cycling +  Cross-Training Hub at Home",
+            "button_1_text": "BUY BIKE",
+            "button_1_link": "shopify:\/\/products\/xbike",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16291076475b394b4f-0",
+        "4da8fe57-2161-470a-8113-6e9054beabaf"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#ffffff",
+        "button_background": "#02c0d9"
+      }
+    },
+    "16291090739d906bec": {
+      "type": "testimonials",
+      "blocks": {
+        "c7f9dedc-47d6-40ed-940b-18819ae02626": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/1_5f75725d-bdc9-42f0-a598-3a853c6866ec.png",
+            "quote": "<p><a href=\"https:\/\/www.bloomberg.com\/press-releases\/2021-11-18\/freebeat-hosts-thanksgiving-charity-activities-helping-children-with-cancer\" target=\"_blank\" title=\"https:\/\/www.bloomberg.com\/press-releases\/2021-11-18\/freebeat-hosts-thanksgiving-charity-activities-helping-children-with-cancer\">\"Xbike is the latest innovative indoor cycling bike.\"<\/a><\/p><p><a href=\"https:\/\/www.bloomberg.com\/press-releases\/2021-11-18\/freebeat-hosts-thanksgiving-charity-activities-helping-children-with-cancer\" target=\"_blank\" title=\"https:\/\/www.bloomberg.com\/press-releases\/2021-11-18\/freebeat-hosts-thanksgiving-charity-activities-helping-children-with-cancer\">Featured in<\/a><\/p>"
+          }
+        },
+        "16291090739d906bec-0": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/112.png",
+            "quote": "<p><a href=\"https:\/\/finance.yahoo.com\/news\/freebeat-ups-ante-20-million-061300421.html?.tsrc=fin-srch\" target=\"_blank\" title=\"https:\/\/finance.yahoo.com\/news\/freebeat-ups-ante-20-million-061300421.html?.tsrc=fin-srch\">\"A modern take on indoor cycling.\" <\/a><\/p><p><a href=\"https:\/\/finance.yahoo.com\/news\/freebeat-ups-ante-20-million-061300421.html?.tsrc=fin-srch\" target=\"_blank\" title=\"https:\/\/finance.yahoo.com\/news\/freebeat-ups-ante-20-million-061300421.html?.tsrc=fin-srch\">Featured in<\/a><\/p>"
+          }
+        },
+        "16291090739d906bec-1": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Lark20210824-175547.png",
+            "quote": "<p><a href=\"https:\/\/www.digitaljournal.com\/pr\/freebeat-launches-xbike-with-trending-features-and-offers#ixzz7CrOtWJIm\" target=\"_blank\" title=\"https:\/\/www.digitaljournal.com\/pr\/freebeat-launches-xbike-with-trending-features-and-offers#ixzz7CrOtWJIm\">\"Sleek and modern fitted design.\"<\/a><\/p><p><a href=\"https:\/\/www.digitaljournal.com\/pr\/freebeat-launches-xbike-with-trending-features-and-offers#ixzz7CrOtWJIm\" target=\"_blank\" title=\"https:\/\/www.digitaljournal.com\/pr\/freebeat-launches-xbike-with-trending-features-and-offers#ixzz7CrOtWJIm\">Featured in<\/a><\/p>"
+          }
+        },
+        "16291090739d906bec-2": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Lark20210824-175542.png",
+            "quote": "<p>\"Easily convert cardio exercise into full-body workouts with motion tracking dumbbells.\"<\/p><p>Featured in<\/p>"
+          }
+        },
+        "7f79ad9b-6407-4976-89d6-7818ea94c813": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Toms-Guide.png",
+            "quote": "<p>\"Freebeat xbike is more entertaining than most other workout bikes.\"<\/p><p>Featured in<\/p>"
+          }
+        },
+        "61c09a38-fb68-47da-b927-3581ecd9ad73": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/20211118-190749.png",
+            "quote": "<p><a href=\"https:\/\/www.tomsguide.com\/reviews\/freebeat-xbike\" target=\"_blank\" title=\"https:\/\/www.tomsguide.com\/reviews\/freebeat-xbike\">“The best exercise bike for music lovers.\"<\/a><\/p><p><a href=\"https:\/\/www.tomsguide.com\/reviews\/freebeat-xbike\" target=\"_blank\" title=\"https:\/\/www.tomsguide.com\/reviews\/freebeat-xbike\">Featured in<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "c7f9dedc-47d6-40ed-940b-18819ae02626",
+        "16291090739d906bec-0",
+        "16291090739d906bec-1",
+        "16291090739d906bec-2",
+        "7f79ad9b-6407-4976-89d6-7818ea94c813",
+        "61c09a38-fb68-47da-b927-3581ecd9ad73"
+      ],
+      "settings": {
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "#f9f9f9",
+        "text_color": "#1c1b1b"
+      }
+    },
+    "1629346124f7c0b086": {
+      "type": "slideshow",
+      "blocks": {
+        "1629346124f7c0b086-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/p_nnn_48bf9d0f-d5bc-40cc-ac6f-51402fb6df90.jpg",
+            "apply_overlay": true,
+            "content_position": "middleLeft",
+            "subheading": "Sign up now to get a pre-order deal of $409 value!",
+            "title": "xbike: Gamified Studio Cycling +  Cross-Training Hub at Home.",
+            "button_1_text": "PRE-ORDER",
+            "button_1_link": "shopify:\/\/products\/xbike",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1629346124f7c0b086-0"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "button_background": "#02c0d9"
+      }
+    },
+    "1629085231974a9fb2": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "22” ROTATING HD TOUCHSCREEN",
+        "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_3.gif",
+        "image_position": "left",
+        "content": "<p>Turn the screen, get off the bike, and follow your personal trainer on a 22\" HD touchscreen for cross-training. It also features anti-fingerprint and anti-glare technology for a continuous fitness session.<br\/><br\/><\/p>",
+        "link_text": "BUY NOW",
+        "link_url": "shopify:\/\/products\/xbike"
+      }
+    },
+    "1629711727bae68bb9": {
+      "type": "collection-list",
+      "blocks": {
+        "1629711727bae68bb9-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/final__1_6.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "Spring lift assist enables you to adjust your handlebar height with ease.",
+            "title": "INTUITIVE FEATURES",
+            "button_text": "BUY BIKE",
+            "button_link": "shopify:\/\/products\/xbike",
+            "apply_overlay": false
+          }
+        },
+        "1629711727bae68bb9-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/final__1_7.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "Streamlined sleek design in the shape of X.",
+            "title": "SLEEK DESIGN",
+            "button_text": "BUY BIKE",
+            "button_link": "shopify:\/\/products\/xbike",
+            "apply_overlay": false
+          }
+        },
+        "1629711727bae68bb9-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/final__1_8.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "Experience a smooth, friction-less and silent ride with magnetic resistance.",
+            "title": "QUIET & SMOOTH",
+            "button_text": "BUY BIKE",
+            "button_link": "shopify:\/\/products\/xbike",
+            "apply_overlay": false
+          }
+        }
+      },
+      "block_order": [
+        "1629711727bae68bb9-1",
+        "1629711727bae68bb9-0",
+        "1629711727bae68bb9-2"
+      ],
+      "settings": {
+        "image_size": "normal",
+        "add_spacing": true,
+        "expand_collection": false,
+        "stack_on_mobile": true,
+        "text_color": "#ffffff",
+        "button_color": "#363636"
+      }
+    },
+    "1629085322f403cd28": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "subheading": "5. Video + Text",
+        "title": "多人使用单车的混剪",
+        "html": "<video style=\"max-width: 100%; height: auto;\" showinfo=\"0\" playsinline=\"\" autoplay=\"\" loop=\"\">\n<source src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0441\/1093\/8265\/files\/Pexels_Videos_3854.mp4?v=1608283803\" type=\"video\/mp4\">\n<\/source><\/video>"
+      }
+    },
+    "16297916732dcf3e99": {
+      "type": "slideshow",
+      "blocks": {
+        "16297916732dcf3e99-0": {
+          "type": "image",
+          "settings": {
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16297916732dcf3e99-0"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "button_background": "#ffffff"
+      }
+    },
+    "16299559693d5cb5d3": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "FIND YOUR BEAT",
+        "image_position": "right",
+        "content": "<p>Turn on freebeat and never endure another dull moment during your fitness journey with its energetically curated music and beat-based choreography.<br\/><br\/><\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
+    "1629108304a4af0e93": {
+      "type": "slideshow",
+      "blocks": {
+        "1629108304a4af0e93-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/02_6a756f54-07d1-4e61-86ea-65076f896997.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/15_fbf972e1-877d-436c-af45-c7ae930daed2.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomRight",
+            "subheading": "Experience the tailored computer-generated animations that enhance the vibe of every class.",
+            "title": "VIBE-SYNCED EFFECTS",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "1629108304a4af0e93-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/01_6f234318-843c-4f0a-a918-9d766b34ec15.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/14.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomRight",
+            "subheading": "Transform fitness into entertainment with the gamification system.",
+            "title": "GAMIFIED WORKOUTS",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "b518b87b-4516-4bf6-a213-7756175c3023": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/03_a12058cd-1538-4f17-8b50-65e80200b87b.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/16.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomRight",
+            "subheading": "Ride with the most professional coaching at every fitness level.",
+            "title": "ROCKSTAR INSTRUCTORS",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1629108304a4af0e93-0",
+        "1629108304a4af0e93-1",
+        "b518b87b-4516-4bf6-a213-7756175c3023"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "button_background": "#ffffff"
+      }
+    },
+    "162936345322b2b130": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "Sub-heading",
+        "title": "bike-custom",
+        "html": "<p>Write your own custom HTML content<\/p>"
+      }
+    },
+    "162911241974310f78": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "ALL-ACCESS MEMBERSHIP",
+        "image": "shopify:\/\/shop_images\/20221211711.png",
+        "image_position": "left",
+        "content": "<p>We offer a free 45-day membership ($59 Value) to interactive fitness with your xbike purchase. You can register up to 10 accounts with just one membership.<br\/><br\/><\/p>",
+        "link_text": "GET 45 DAYS FREE",
+        "link_url": "shopify:\/\/pages\/try-now-sign-up-page"
+      }
+    },
+    "1646187670f9d18815": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "Sub-heading",
+        "title": "comparision_klarna",
+        "html": "<p>Write your own custom HTML content<\/p>"
+      }
+    },
+    "16298741504d00879e": {
+      "type": "instafeed",
+      "settings": {
+        "heading_font": "montserrat_n9",
+        "heading_size": 30,
+        "feed_width": 100,
+        "html_area": ""
+      }
+    },
+    "1629086012973d9032": {
+      "type": "blog-posts",
+      "blocks": {
+        "1629086012973d9032-0": {
+          "type": "blog",
+          "settings": {
+            "blog": "brand-story"
+          }
+        }
+      },
+      "block_order": [
+        "1629086012973d9032-0"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "FEATURED BLOGS",
+        "show_category": false,
+        "button_link": "",
+        "button_text": ""
+      }
+    },
+    "1629086008cc2691c7": {
+      "type": "newsletter",
+      "settings": {
+        "section_size": "small",
+        "image": "shopify:\/\/shop_images\/black_background_-_square.jpg",
+        "text_color": "#ffffff",
+        "button_color": "#000000",
+        "subheading": "",
+        "title": "JUST FOR YOU",
+        "content": "<p>Sign up now to get exclusive offers!<\/p>"
+      }
+    },
+    "162995793842b4d558": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "Sub-heading",
+        "title": "calculate-bike-bottom",
+        "html": "<p>Write your own custom HTML content<\/p>"
+      }
+    },
+    "1629792267ae05d003": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "Sub-heading",
+        "title": "footer nav",
+        "html": ""
+      }
+    }
+  },
+  "order": [
+    "1629084495f8689562",
+    "16291170491e235167",
+    "main",
+    "16291076475b394b4f",
+    "16291090739d906bec",
+    "1629346124f7c0b086",
+    "1629085231974a9fb2",
+    "1629711727bae68bb9",
+    "1629085322f403cd28",
+    "16297916732dcf3e99",
+    "16299559693d5cb5d3",
+    "1629108304a4af0e93",
+    "162936345322b2b130",
+    "162911241974310f78",
+    "1646187670f9d18815",
+    "16298741504d00879e",
+    "1629086012973d9032",
+    "1629086008cc2691c7",
+    "162995793842b4d558",
+    "1629792267ae05d003"
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "current": {
+    "heading_color": "#1c1b1b",
+    "text_color": "#1c1b1b",
+    "text_light_color": "#6a6a6a",
+    "link_color": "#12f4ca",
+    "background": "#ffffff",
+    "light_background": "#ffffff",
+    "product_on_sale_color": "#f94c43",
+    "button_background": "#1c1b1b",
+    "button_text_color": "#ffffff",
+    "header_background": "#ffffff",
+    "header_heading_color": "#1c1b1b",
+    "header_light_color": "#6a6a6a",
+    "footer_background": "#ffffff",
+    "footer_heading_color": "#1c1b1b",
+    "footer_text_color": "#6a6a6a",
+    "navigation_background": "#1c1b1b",
+    "navigation_text_color": "#ffffff",
+    "newsletter_popup_background": "#1c1b1b",
+    "newsletter_popup_text_color": "#ffffff",
+    "secondary_elements_background": "#1c1b1b",
+    "secondary_elements_text_color": "#ffffff",
+    "heading_font": "montserrat_n9",
+    "heading_size": "large",
+    "uppercase_heading": false,
+    "text_font": "montserrat_n4",
+    "base_text_font_size": 17,
+    "show_page_transition": false,
+    "show_button_transition": false,
+    "search_mode": "product,article,page",
+    "product_show_price_on_hover": true,
+    "product_show_secondary_image": false,
+    "product_info_alignment": "center",
+    "product_image_size": "natural",
+    "product_list_horizontal_spacing": "medium",
+    "product_list_vertical_spacing": "small",
+    "cart_type": "drawer",
+    "cart_enable_notes": true,
+    "cart_show_free_shipping_threshold": false,
+    "cart_free_shipping_threshold": "50",
+    "social_facebook": "https:\/\/www.facebook.com\/freebeatfit",
+    "social_twitter": "https:\/\/twitter.com\/freebeat10",
+    "social_instagram": "https:\/\/www.instagram.com\/freebeatfit\/",
+    "social_youtube": "https:\/\/www.youtube.com\/channel\/UCSob0frzoq6jUnbiMj-jZow",
+    "favicon": "shopify:\/\/shop_images\/icon__1.jpg",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "small",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#efefef",
+    "checkout_accent_color": "#1c1b1b",
+    "checkout_button_color": "#1c1b1b",
+    "heading1_font": "montserrat_n9",
+    "fb_xbike_originalPrice": "1299",
+    "fb_xbike_discountPrice": "799",
+    "fb_xbike_id": "6953648259257",
+    "fb_xbike_category": "xbike",
+    "fb_xbike_currentPrice": "799",
+    "fb_xbike_discountAmount": "500",
+    "fb_xbike_discountAmount1": "500",
+    "fb_xbike_subscriptionOffer": "50",
+    "fb_xbike_36installmentsPrice": "22.19",
+    "fb_lit-bike_36installmentsPrice": "36.08",
+    "fb_courseMember_originalPricePerMonth": "39",
+    "fb_combinedPrice_perMonth36installments": "62",
+    "fb_promotionalPrograms_45daysPlusMembershipPrice_staging": "34",
+    "fb_promotionalPrograms_45daysPlusMembershipPrice_noInstallment": "849",
+    "fb_promotionalPrograms_45dayBikePrice": "849",
+    "fb_promotionalPrograms_45dayMembershipPrice": "59",
+    "fb_promotionalPrograms_45daySubscriptionDiscountedPrice": "50",
+    "fb_promotionalPrograms_promoCode": "freebeat150",
+    "fb_lit-bike_discountPrice": "1299",
+    "fb_lit-bike_discountAmount": "500",
+    "fb_lit-bike_originalPrice": "1799",
+    "fb_lit-bike_id": "",
+    "fb_lit-bike_category": "Lit Bike",
+    "fb_lit-bike-klarna_36installmentsPrice": "41.64",
+    "fb_lit-bike-klarna_discountPrice": "1499",
+    "fb_lit-bike-klarna_discountAmount": "500",
+    "fb_lit-bike-klarna_originalPrice": "1999",
+    "fb_lit-bike-klarna_category": "Lit Bike",
+    "sections": {
+      "sidebar-menu": {
+        "type": "sidebar-menu",
+        "settings": {
+          "primary_menu": "main-menu",
+          "secondary_menu": "",
+          "show_social_media": true
+        }
+      },
+      "announcement": {
+        "type": "announcement",
+        "settings": {
+          "enable_bar": true,
+          "home_page_only": false,
+          "background": "#000000",
+          "text_color": "#ffffff",
+          "content": "Great deal for $550 OFF! Get xbike from $26\/mo",
+          "link": "shopify:\/\/products\/xbike"
+        }
+      },
+      "header": {
+        "type": "header",
+        "blocks": {
+          "dcf88756-125e-47ae-9e50-48e5b4e0dd60": {
+            "type": "mega_menu",
+            "disabled": true,
+            "settings": {
+              "navigation_mega_menu": "",
+              "push_1_heading": "Example heading",
+              "push_1_subheading": "Example sub-heading",
+              "push_1_url": "",
+              "push_2_heading": "Example heading",
+              "push_2_subheading": "Example sub-heading",
+              "push_2_url": ""
+            }
+          }
+        },
+        "block_order": [
+          "dcf88756-125e-47ae-9e50-48e5b4e0dd60"
+        ],
+        "settings": {
+          "use_sticky_header": true,
+          "logo": "shopify:\/\/shop_images\/shopify_logo.png",
+          "logo_max_width": 140,
+          "mobile_logo_max_width": 90,
+          "show_currency_selector": true,
+          "show_locale_selector": true,
+          "navigation_menu": "main-menu",
+          "navigation_style": "logoLeft",
+          "show_icons": false,
+          "enable_transparent_header": false,
+          "enable_transparent_header_collection": false,
+          "show_transparent_header_border": true,
+          "transparent_text_color": "#ffffff"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "b2144324-c094-4bc7-88eb-02bb5d07f5f0": {
+            "type": "links",
+            "settings": {
+              "menu": "help"
+            }
+          },
+          "cc7cfada-50b2-4680-9c6b-7e5befdae3f6": {
+            "type": "links",
+            "settings": {
+              "menu": "about"
+            }
+          },
+          "ac04ca4f-b90e-4788-9c40-134fae86f2b3": {
+            "type": "links",
+            "settings": {
+              "menu": "support"
+            }
+          },
+          "footer-2": {
+            "type": "newsletter",
+            "settings": {
+              "title": "NEWSLETTER",
+              "content": "<p>Sign up now for exclusive news and offer on Lit Bike!<\/p>"
+            }
+          },
+          "86369f9c-7497-4f26-b689-452919e063ab": {
+            "type": "text",
+            "settings": {
+              "title": "Contact Us",
+              "content": "<p><strong>Email:<\/strong> <a href=\"mailto:customerservice@freebeatfit.com\" target=\"_blank\" title=\"customerservice@freebeatfit.com\">customerservice@freebeatfit.com<\/a><\/p><p><strong>Company Name: <\/strong>Stochastic Technology LLC<\/p><p><strong>Company Address: <\/strong>Lenox Rd, Suite 1500 Atlanta, GA 30326<\/p>",
+              "show_social_media": true
+            }
+          }
+        },
+        "block_order": [
+          "b2144324-c094-4bc7-88eb-02bb5d07f5f0",
+          "cc7cfada-50b2-4680-9c6b-7e5befdae3f6",
+          "ac04ca4f-b90e-4788-9c40-134fae86f2b3",
+          "footer-2",
+          "86369f9c-7497-4f26-b689-452919e063ab"
+        ],
+        "settings": {
+          "show_payment_methods": true,
+          "show_currency_selector": true,
+          "show_locale_selector": true
+        }
+      },
+      "popup": {
+        "type": "popup",
+        "settings": {
+          "show_popup": true,
+          "show_only_on_index": false,
+          "show_only_for_visitors": true,
+          "show_only_once": false,
+          "title": "Get xbike for $949!",
+          "content": "<p>Subsccribe to exclusive offers and get an additional $50 off your xbike ($999).<\/p>",
+          "show_newsletter": true,
+          "apparition_delay": 10
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  },
+  "presets": {
+    "Allure": {
+      "heading_color": "#1c1b1b",
+      "text_color": "#1c1b1b",
+      "text_light_color": "#6a6a6a",
+      "link_color": "#6a6a6a",
+      "background": "#efefef",
+      "light_background": "#ffffff",
+      "product_on_sale_color": "#f94c43",
+      "button_background": "#1c1b1b",
+      "button_text_color": "#ffffff",
+      "header_background": "#ffffff",
+      "header_heading_color": "#1c1b1b",
+      "header_light_color": "#6a6a6a",
+      "footer_background": "#ffffff",
+      "footer_heading_color": "#1c1b1b",
+      "footer_text_color": "#6a6a6a",
+      "newsletter_popup_background": "#1c1b1b",
+      "newsletter_popup_text_color": "#ffffff",
+      "secondary_elements_background": "#1c1b1b",
+      "secondary_elements_text_color": "#ffffff",
+      "navigation_background": "#1c1b1b",
+      "navigation_text_color": "#ffffff",
+      "heading_font": "montserrat_n5",
+      "heading1_font": "montserrat_n9",
+      "heading_size": "small",
+      "uppercase_heading": true,
+      "text_font": "nunito_sans_n4",
+      "base_text_font_size": 14,
+      "show_page_transition": false,
+      "search_mode": "product,article",
+      "product_show_price_on_hover": false,
+      "product_show_secondary_image": false,
+      "product_info_alignment": "center",
+      "product_image_size": "natural",
+      "product_list_horizontal_spacing": "medium",
+      "product_list_vertical_spacing": "small",
+      "cart_type": "drawer",
+      "cart_enable_notes": true,
+      "cart_show_free_shipping_threshold": false,
+      "cart_free_shipping_threshold": "50",
+      "checkout_logo_position": "center",
+      "checkout_logo_size": "small",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#efefef",
+      "checkout_accent_color": "#1c1b1b",
+      "checkout_button_color": "#1c1b1b",
+      "sections": {
+        "sidebar-menu": {
+          "type": "sidebar-menu",
+          "settings": {
+            "primary_menu": "main-menu",
+            "show_social_media": true
+          }
+        },
+        "announcement": {
+          "type": "announcement",
+          "settings": {
+            "background": "#000000",
+            "text_color": "#ffffff",
+            "content": "Announce something here"
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "use_sticky_header": true,
+            "logo_max_width": 140,
+            "navigation_menu": "main-menu",
+            "navigation_style": "inline",
+            "enable_transparent_header": true,
+            "transparent_text_color": "#ffffff"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "text",
+              "settings": {
+                "title": "About the shop",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "show_social_media": true
+              }
+            },
+            "footer-1": {
+              "type": "links",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_payment_methods": true
+          }
+        }
+      }
+    },
+    "Couture": {
+      "heading_color": "#5c5c5c",
+      "text_color": "#5c5c5c",
+      "text_light_color": "#939393",
+      "link_color": "#323232",
+      "background": "#ffffff",
+      "light_background": "#ffffff",
+      "product_on_sale_color": "#f94c43",
+      "button_background": "#5c5c5c",
+      "button_text_color": "#ffffff",
+      "header_background": "#ffffff",
+      "header_heading_color": "#5c5c5c",
+      "header_light_color": "#939393",
+      "footer_background": "#ffffff",
+      "footer_heading_color": "#5c5c5c",
+      "footer_text_color": "#939393",
+      "newsletter_popup_background": "#ffffff",
+      "newsletter_popup_text_color": "#1c1b1b",
+      "secondary_elements_background": "#5c5c5c",
+      "secondary_elements_text_color": "#ffffff",
+      "navigation_background": "#ffffff",
+      "navigation_text_color": "#5c5c5c",
+      "heading_font": "futura_n4",
+      "heading1_font": "montserrat_n9",
+      "heading_size": "large",
+      "uppercase_heading": false,
+      "text_font": "century_gothic_n4",
+      "base_text_font_size": 15,
+      "show_page_transition": false,
+      "search_mode": "product,article",
+      "product_show_price_on_hover": true,
+      "product_show_secondary_image": false,
+      "product_info_alignment": "left",
+      "product_image_size": "natural",
+      "product_list_horizontal_spacing": "small",
+      "product_list_vertical_spacing": "small",
+      "cart_type": "drawer",
+      "cart_enable_notes": true,
+      "cart_show_free_shipping_threshold": false,
+      "cart_free_shipping_threshold": "50",
+      "checkout_logo_position": "center",
+      "checkout_logo_size": "small",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_accent_color": "#323232",
+      "checkout_button_color": "#5c5c5c",
+      "sections": {
+        "sidebar-menu": {
+          "type": "sidebar-menu",
+          "settings": {
+            "primary_menu": "main-menu",
+            "show_social_media": true
+          }
+        },
+        "announcement": {
+          "type": "announcement",
+          "settings": {
+            "background": "#f3f3f3",
+            "text_color": "#5c5c5c",
+            "content": "Announce something here"
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "use_sticky_header": true,
+            "logo_max_width": 140,
+            "navigation_menu": "main-menu",
+            "navigation_style": "center",
+            "enable_transparent_header": true,
+            "transparent_text_color": "#ffffff"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "text",
+              "settings": {
+                "title": "About the shop",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "show_social_media": true
+              }
+            },
+            "footer-1": {
+              "type": "links",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_payment_methods": true
+          }
+        }
+      }
+    },
+    "Vogue": {
+      "heading_color": "#303030",
+      "text_color": "#303030",
+      "text_light_color": "#595959",
+      "link_color": "#000000",
+      "background": "#ffffff",
+      "light_background": "#ffffff",
+      "product_on_sale_color": "#f94c43",
+      "button_background": "#f5db8b",
+      "button_text_color": "#303030",
+      "header_background": "#ffffff",
+      "header_heading_color": "#303030",
+      "header_light_color": "#595959",
+      "footer_background": "#ffffff",
+      "footer_heading_color": "#303030",
+      "footer_text_color": "#595959",
+      "navigation_background": "#ffffff",
+      "navigation_text_color": "#303030",
+      "newsletter_popup_background": "#ffffff",
+      "newsletter_popup_text_color": "#303030",
+      "secondary_elements_background": "#fce7a8",
+      "secondary_elements_text_color": "#303030",
+      "heading_font": "din_neuzeit_grotesk_n3",
+      "heading1_font": "montserrat_n9",
+      "heading_size": "small",
+      "uppercase_heading": true,
+      "text_font": "futura_n4",
+      "base_text_font_size": 14,
+      "show_page_transition": false,
+      "show_element_staggering": false,
+      "search_mode": "product,article",
+      "product_show_price_on_hover": true,
+      "product_show_secondary_image": false,
+      "product_info_alignment": "center",
+      "product_image_size": "natural",
+      "product_list_horizontal_spacing": "medium",
+      "product_list_vertical_spacing": "small",
+      "cart_type": "drawer",
+      "cart_enable_notes": true,
+      "cart_show_free_shipping_threshold": false,
+      "cart_free_shipping_threshold": "50",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_accent_color": "#a17c5e",
+      "checkout_button_color": "#454545",
+      "sections": {
+        "sidebar-menu": {
+          "type": "sidebar-menu",
+          "settings": {
+            "primary_menu": "main-menu",
+            "show_social_media": true
+          }
+        },
+        "announcement": {
+          "type": "announcement",
+          "settings": {
+            "background": "#f1e4d8",
+            "text_color": "#343434",
+            "content": "Announce something here"
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "use_sticky_header": true,
+            "logo_max_width": 140,
+            "navigation_menu": "main-menu",
+            "navigation_style": "inline",
+            "enable_transparent_header": true,
+            "transparent_text_color": "#ffffff"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "text",
+              "settings": {
+                "title": "About the shop",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "show_social_media": true
+              }
+            },
+            "footer-1": {
+              "type": "links",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_payment_methods": true
+          }
+        }
+      }
+    }
+  }
+}

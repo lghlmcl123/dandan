@@ -1,0 +1,427 @@
+{
+  "sections": {
+    "1629084495f8689562": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "subheading": "需要加cta按钮",
+        "title": "Video + Text - Bike专题",
+        "html": "<video style=\"max-width: 100%; height: auto;\" showinfo=\"0\" playsinline=\"\" autoplay=\"\" loop=\"\">\n<source src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0441\/1093\/8265\/files\/Pexels_Videos_3854.mp4?v=1608283803\" type=\"video\/mp4\">\n<\/source><\/video>"
+      }
+    },
+    "16291157549cb957f3": {
+      "type": "slideshow",
+      "blocks": {
+        "16291157549cb957f3-0": {
+          "type": "image",
+          "settings": {
+            "mobile_image": "shopify:\/\/shop_images\/xbike-shopO_I_-_OAE.jpg",
+            "apply_overlay": false,
+            "content_position": "middleLeft",
+            "subheading": "Sign up now to get a $50 OFF voucher and 45-day free membership ($59 value).",
+            "title": "A NEW CLASS EVERY DAY, A BETTER YOU EVERY DAY",
+            "button_1_text": "BUY BIKES",
+            "button_1_link": "shopify:\/\/pages\/bikes",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16291157549cb957f3-0"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#ffffff",
+        "button_background": "#02c0d9"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_large": false
+      }
+    },
+    "16291160709e0b5b8b": {
+      "type": "image-with-text-block",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Cutter_Slide___1_d91b35d1-9b20-45e7-8c8b-88b365fd8845.jpg",
+        "background": "#ffffff",
+        "text_color": "#1c1b1b",
+        "block_size": "large",
+        "title": "DISCOVER NEW WAYS TO CHALLENGE YOURSELF",
+        "content": "<p>Access to thousands of on-demand classes anytime you want, from indoor cycling, barre, HIIT and more. <br\/><\/p>",
+        "button_label": "TRY NOW",
+        "button_link": "shopify:\/\/pages\/try-now-sign-up-page",
+        "show_parallax": true
+      }
+    },
+    "1629368736204bb622": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "DISCOVER NEW WAYS TO CHALLENGE YOURSELF",
+        "image_position": "right",
+        "content": "<p>Access to thousands of on-demand classes anytime you want, from indoor cycling, barre, HIIT and more. <br\/><\/p>",
+        "link_text": "EXPLORE BIKES",
+        "link_url": "shopify:\/\/pages\/bikes"
+      }
+    },
+    "162908501408e576c0": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "GAMIFIED WORKOUTS",
+        "image": "shopify:\/\/shop_images\/5_-05_1110a34c-eb94-46a8-af86-63a6afcf4fda.jpg",
+        "image_position": "right",
+        "content": "<p>Lighten up your fitness routine with vibe-synced effects. Feel the vibe and tune in to your fitness routine with various themes such as federal holidays and popular tunes!  <br\/><br\/><\/p>",
+        "link_text": "PREVIEW CLASSES",
+        "link_url": "#"
+      }
+    },
+    "162987924347a5d673": {
+      "type": "slideshow",
+      "blocks": {
+        "162987924347a5d673-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/instructor__1.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/16.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "Our rockstar instructors come from the world's top-notch studios such as Soulcycle, Flywheel, Equinox.",
+            "title": "ROCKSTAR INSTRUCTORS",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "162987924347a5d673-0"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "button_background": "#ffffff"
+      }
+    },
+    "162910584588c83400": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "PERFORMANCE TRACKING",
+        "image": "shopify:\/\/shop_images\/e7dbc0afb6bf1eccbdc7dd26bdbbb937.png",
+        "image_position": "left",
+        "content": "<p>Our sensors won't miss a single pedal and you'll get instant performance tracking results at every beat. We would recommend the best training program according to your preferences.<br\/><br\/><\/p>",
+        "link_text": "LET'S RIDE",
+        "link_url": "shopify:\/\/pages\/bikes"
+      }
+    },
+    "1629449882d74dea66": {
+      "type": "slideshow",
+      "blocks": {
+        "1629449882d74dea66-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Variety_of_Class_2.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Variety_of_Class_2_513c9e7f-3237-4f7c-8b97-f36c6bb552b9.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "Take your fitness routine to the next level.",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "1629449882d74dea66-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Variety_of_Class.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Variety_of_Class_bbea1e25-827f-486b-92de-c2f66491c92c.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "Discover exclusively selected classes.",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "d484d395-fc27-4b23-a7db-b643b42e5cfd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/a1c1e73eba90b126e3266ae4a201d6d6.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/750_1100.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "Pedal to the beat of your own rhythm.",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "f0e58c28-becf-4806-84e0-c36f4893f02e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/760812eed02d1058dd877401a37dbedf.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/750_1100_c3fb9161-546e-4150-b824-f527c7e25f3a.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "Say goodbye to the boring fitness routine.",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1629449882d74dea66-0",
+        "1629449882d74dea66-1",
+        "d484d395-fc27-4b23-a7db-b643b42e5cfd",
+        "f0e58c28-becf-4806-84e0-c36f4893f02e"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "button_background": "#ffffff"
+      }
+    },
+    "162908527434e4b71e": {
+      "type": "text-with-image",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "VARIETY OF CLASSES",
+        "image": "shopify:\/\/shop_images\/5_-02_a43d150d-fe99-43f3-b114-fc2fc402831f.jpg",
+        "image_position": "right",
+        "content": "<p>Experience studio fitness from the comfort of your own home with thousands of on-demand classes to choose from every day.<br\/><br\/><\/p>",
+        "link_text": "TRY NOW",
+        "link_url": "shopify:\/\/pages\/try-now-sign-up-page"
+      }
+    },
+    "16291059875511a468": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "ALL-ACCESS MEMBERSHIP",
+        "image": "shopify:\/\/shop_images\/20221211711_73b2fb12-9aa1-4785-b1d4-6d13b752f0b3.png",
+        "image_position": "right",
+        "content": "<p>We offer you a free 45-day membership ($59 Value) to interactive fitness with your xbike purchase. You can register up to 10 accounts with just one membership.<br\/><br\/><\/p>",
+        "link_text": "BUY BIKES",
+        "link_url": "shopify:\/\/pages\/bikes"
+      }
+    },
+    "1629714010c57bf636": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "section_size": "large",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30,
+        "subheading": "",
+        "title": "Tell your story",
+        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+      }
+    },
+    "16291061699e43e044": {
+      "type": "slideshow",
+      "blocks": {
+        "16291061699e43e044-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Coach_quote_final__1_2.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Coach_quote_final-06.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "16291061699e43e044-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Coach_quote_final__1_cda9837e-536f-4c44-be0b-6f871989829e.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Coach_quote_final-05_6ed897bd-ec28-402e-88b8-892036172566.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "1933fdda-febe-4711-8434-2a4d3d1a694e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Coach_quote_final__1_002217ce-d2ec-4af4-9180-94d7f7052ae5.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Coach_quote_final-04.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16291061699e43e044-1",
+        "16291061699e43e044-0",
+        "1933fdda-febe-4711-8434-2a4d3d1a694e"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "button_background": "#ffffff"
+      }
+    },
+    "1629785545e82db285": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "1629785545e82db285-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/09.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/08_014f0f94-7463-414b-9267-1c40f52ea21f.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1629785545e82db285-0"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "button_background": "#ffffff"
+      }
+    },
+    "1629188557add1dbd4": {
+      "type": "instafeed",
+      "settings": {
+        "heading_font": "montserrat_n4",
+        "heading_size": 24,
+        "feed_width": 100,
+        "html_area": ""
+      }
+    },
+    "1629086012973d9032": {
+      "type": "blog-posts",
+      "blocks": {
+        "1629086012973d9032-0": {
+          "type": "blog",
+          "settings": {
+            "blog": "brand-story"
+          }
+        }
+      },
+      "block_order": [
+        "1629086012973d9032-0"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "FEATURED BLOGS",
+        "show_category": false,
+        "button_link": "",
+        "button_text": ""
+      }
+    },
+    "1632984840f3b8b9b9": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "Sub-heading",
+        "title": "calculate-bike-bottom",
+        "html": "<p>Write your own custom HTML content<\/p>"
+      }
+    },
+    "16297958923ffc5a42": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "Sub-heading",
+        "title": "footer nav",
+        "html": "<p>Write your own custom HTML content<\/p>"
+      }
+    },
+    "1629086008cc2691c7": {
+      "type": "newsletter",
+      "settings": {
+        "section_size": "small",
+        "image": "shopify:\/\/shop_images\/black_background_21d38ae1-f954-4a40-995d-f3965c058755.jpg",
+        "text_color": "#ffffff",
+        "button_color": "#000000",
+        "subheading": "",
+        "title": "JUST FOR YOU",
+        "content": "<p>Sign up now to get exclusive offers!<\/p>"
+      }
+    }
+  },
+  "order": [
+    "1629084495f8689562",
+    "16291157549cb957f3",
+    "main",
+    "16291160709e0b5b8b",
+    "1629368736204bb622",
+    "162908501408e576c0",
+    "162987924347a5d673",
+    "162910584588c83400",
+    "1629449882d74dea66",
+    "162908527434e4b71e",
+    "16291059875511a468",
+    "1629714010c57bf636",
+    "16291061699e43e044",
+    "1629785545e82db285",
+    "1629188557add1dbd4",
+    "1629086012973d9032",
+    "1632984840f3b8b9b9",
+    "16297958923ffc5a42",
+    "1629086008cc2691c7"
+  ]
+}

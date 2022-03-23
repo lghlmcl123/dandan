@@ -1,0 +1,537 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "12824307-577b-4f2a-8de9-32a159c87d09": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Spring_promotion-PC-litbike-pink_2x_569f8373-9a60-40e8-b8d2-f72e5aeefec3.png",
+            "mobile_image": "shopify:\/\/shop_images\/Spring_promotion-mobiel-litbike-pink_2x_9ad1e43b-f42a-4279-ab00-5eac05314d72.png",
+            "apply_overlay": false,
+            "content_position": "middleLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/pages\/lit-bike-klarna",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "a9835fa0-811b-4a4c-93f7-7544f5f0bb1e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Spring_promotion-PC-litbike_2x_6cd7cdc5-21f0-4a17-8507-1b32bb8e0683.png",
+            "mobile_image": "shopify:\/\/shop_images\/Spring_promotion-mobiel-litbike_2x_36e37c85-0907-421e-b00d-ee8922356f68.png",
+            "apply_overlay": false,
+            "content_position": "middleLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/pages\/lit-bike",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "ffe18a75-0119-4d99-a903-43f1de42f1c9": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Presidents_-Day-PC_2x-0219-fix1.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Presidents_-Day-mobiel_2x_7766b0e5-0bf9-4fa8-9d88-dd836955dead.png",
+            "apply_overlay": false,
+            "content_position": "middleLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/products\/xbike",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "slide-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Spring_promotion-PC-xbike_2x_0d61fc7c-d928-42f4-8a03-8f1096d19da2.png",
+            "mobile_image": "shopify:\/\/shop_images\/Spring_promotion-mobiel-xbike_2x_3302e444-3370-4a3c-a7c8-ce36a8ad4488.png",
+            "apply_overlay": false,
+            "content_position": "middleLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/products\/xbike",
+            "button_2_text": "",
+            "button_2_link": "#"
+          }
+        },
+        "94d71825-7281-484b-a802-e82b5d81864d": {
+          "type": "image",
+          "settings": {
+            "apply_overlay": true,
+            "content_position": "middleLeft",
+            "subheading": "Great deal for $550 OFF! Get xbike from $26\/mo",
+            "title": "AT-HOME STUDIO CYCLING HUB",
+            "button_1_text": "BUY XBIKE",
+            "button_1_link": "shopify:\/\/products\/xbike",
+            "button_2_text": "TRY CLASSES FREE",
+            "button_2_link": "shopify:\/\/pages\/classes"
+          }
+        }
+      },
+      "block_order": [
+        "12824307-577b-4f2a-8de9-32a159c87d09",
+        "a9835fa0-811b-4a4c-93f7-7544f5f0bb1e",
+        "ffe18a75-0119-4d99-a903-43f1de42f1c9",
+        "slide-0",
+        "94d71825-7281-484b-a802-e82b5d81864d"
+      ],
+      "settings": {
+        "show_fullscreen": true,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#ffffff",
+        "button_background": "#02c0d9"
+      }
+    },
+    "16290830793ebe0edc": {
+      "type": "testimonials",
+      "blocks": {
+        "2157d1be-cb45-445d-b0f6-ddc7c8fa6406": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/1_5f75725d-bdc9-42f0-a598-3a853c6866ec.png",
+            "quote": "<p><a href=\"https:\/\/www.bloomberg.com\/press-releases\/2021-11-18\/freebeat-hosts-thanksgiving-charity-activities-helping-children-with-cancer\" target=\"_blank\" title=\"https:\/\/www.bloomberg.com\/press-releases\/2021-11-18\/freebeat-hosts-thanksgiving-charity-activities-helping-children-with-cancer\">\"...the latest innovative indoor cycling bike.\"<\/a><\/p><p><a href=\"https:\/\/www.bloomberg.com\/press-releases\/2021-11-18\/freebeat-hosts-thanksgiving-charity-activities-helping-children-with-cancer\" target=\"_blank\" title=\"https:\/\/www.bloomberg.com\/press-releases\/2021-11-18\/freebeat-hosts-thanksgiving-charity-activities-helping-children-with-cancer\">Featured in<\/a><\/p>"
+          }
+        },
+        "16290830793ebe0edc-0": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/112.png",
+            "quote": "<p><a href=\"https:\/\/finance.yahoo.com\/news\/freebeat-ups-ante-20-million-061300421.html?.tsrc=fin-srch\" target=\"_blank\" title=\"https:\/\/finance.yahoo.com\/news\/freebeat-ups-ante-20-million-061300421.html?.tsrc=fin-srch\">\"A modern take on indoor cycling.\"     <\/a><\/p><p><a href=\"https:\/\/finance.yahoo.com\/news\/freebeat-ups-ante-20-million-061300421.html?.tsrc=fin-srch\" target=\"_blank\" title=\"https:\/\/finance.yahoo.com\/news\/freebeat-ups-ante-20-million-061300421.html?.tsrc=fin-srch\">Featured in<\/a><\/p>"
+          }
+        },
+        "16290830793ebe0edc-2": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Lark20210824-175547.png",
+            "quote": "<p><a href=\"https:\/\/www.digitaljournal.com\/pr\/freebeat-launches-xbike-with-trending-features-and-offers#ixzz7CrOtWJIm\" target=\"_blank\" title=\"https:\/\/www.digitaljournal.com\/pr\/freebeat-launches-xbike-with-trending-features-and-offers#ixzz7CrOtWJIm\">\"Sleek and modern fitted design.\"<\/a><\/p><p><a href=\"https:\/\/www.digitaljournal.com\/pr\/freebeat-launches-xbike-with-trending-features-and-offers#ixzz7CrOtWJIm\" target=\"_blank\" title=\"https:\/\/www.digitaljournal.com\/pr\/freebeat-launches-xbike-with-trending-features-and-offers#ixzz7CrOtWJIm\">Featured in<\/a><\/p>"
+          }
+        },
+        "16290830793ebe0edc-1": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Lark20210824-175542.png",
+            "quote": "<p>\"Easily convert cardio exercise into full-body workouts with motion tracking dumbbells.\"<\/p><p>Featured in<\/p>"
+          }
+        },
+        "9b2680ed-4acd-4926-b4eb-61267b9aee39": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/20211118-190749.png",
+            "quote": "<p><a href=\"https:\/\/www.tomsguide.com\/reviews\/freebeat-xbike\" target=\"_blank\" title=\"https:\/\/www.tomsguide.com\/reviews\/freebeat-xbike\">“The best exercise bike for music lovers.\"<\/a><\/p><p><a href=\"https:\/\/www.tomsguide.com\/reviews\/freebeat-xbike\" target=\"_blank\" title=\"https:\/\/www.tomsguide.com\/reviews\/freebeat-xbike\">Featured in<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "2157d1be-cb45-445d-b0f6-ddc7c8fa6406",
+        "16290830793ebe0edc-0",
+        "16290830793ebe0edc-2",
+        "16290830793ebe0edc-1",
+        "9b2680ed-4acd-4926-b4eb-61267b9aee39"
+      ],
+      "settings": {
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "#f9f9f9",
+        "text_color": "#1c1b1b"
+      }
+    },
+    "1642563391de8af1d9": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "home_products",
+        "html": ""
+      }
+    },
+    "1642510685c808ee74": {
+      "type": "collection-list",
+      "disabled": true,
+      "blocks": {
+        "113fe9ef-bd98-4a62-a2e3-835ab619a890": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/202221010252.png",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "freebeat x Klarna Limited Collab Edition",
+            "title": "Lit Bike L.E.",
+            "button_text": "BUY NOW, PAY LATER",
+            "button_link": "shopify:\/\/pages\/lit-bike-klarna",
+            "apply_overlay": true
+          }
+        },
+        "16425106853cb2b1c3-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "freebeat-bikes",
+            "image": "shopify:\/\/shop_images\/20221211204.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "Premium Designed to Influence and Impress",
+            "title": "Lit Bike",
+            "button_text": "as low as $36\/mo",
+            "button_link": "shopify:\/\/pages\/lit-bike",
+            "apply_overlay": true
+          }
+        },
+        "16425106853cb2b1c3-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/202212015032.png",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "Gamified Studio Cycling + Cross-Training Hub at Home",
+            "title": "xbike",
+            "button_text": "pay at your pace",
+            "button_link": "shopify:\/\/pages\/xbike",
+            "apply_overlay": true
+          }
+        }
+      },
+      "block_order": [
+        "113fe9ef-bd98-4a62-a2e3-835ab619a890",
+        "16425106853cb2b1c3-0",
+        "16425106853cb2b1c3-1"
+      ],
+      "settings": {
+        "image_size": "normal",
+        "add_spacing": true,
+        "expand_collection": false,
+        "stack_on_mobile": true,
+        "text_color": "#ffffff",
+        "button_color": "#363636"
+      }
+    },
+    "1642581273ef0dd08d": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "home_klarna",
+        "html": ""
+      }
+    },
+    "1639625172bea750ca": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "vsOtherBike1",
+        "html": ""
+      }
+    },
+    "1629726846f84e76ad": {
+      "type": "shop-the-look",
+      "disabled": true,
+      "blocks": {
+        "1629726846f84e76ad-0": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_de50efd1-ae5c-44ea-9f9d-4e448506c31f.jpg",
+            "dot_style": "light",
+            "product_1": "xbike",
+            "product_1_horizontal_position": 30,
+            "product_1_vertical_position": 40,
+            "product_2": "",
+            "product_2_horizontal_position": 58,
+            "product_2_vertical_position": 65,
+            "product_3": "",
+            "product_3_horizontal_position": 70,
+            "product_3_vertical_position": 50
+          }
+        }
+      },
+      "block_order": [
+        "1629726846f84e76ad-0"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "show_mobile_product_info": true
+      }
+    },
+    "162945250647a08400": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "DISCOVER WHAT MOVES YOU",
+        "image_position": "right",
+        "content": "<p>Embark on a new workout routine with a variety of on-demand classes.<\/p>",
+        "link_text": "TRY CLASSES FREE",
+        "link_url": "shopify:\/\/pages\/classes"
+      }
+    },
+    "1629082876ba69851e": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "GAMIFIED WORKOUTS",
+        "image": "shopify:\/\/shop_images\/3___1_2_678b790c-aa0e-47e6-97bd-5518b078d0cd.jpg",
+        "image_position": "right",
+        "content": "<p>Enhance your fitness routine with the gamification system. Immerse yourself in our synchronized visual and auditory creation. <\/p>",
+        "link_text": "START THE GAME",
+        "link_url": "shopify:\/\/pages\/commodity"
+      }
+    },
+    "16290829921bce6622": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "22''ROTATABLE TOUCHSCREEN",
+        "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_3.gif",
+        "image_position": "left",
+        "content": "<p>Get off the bike, rotate your screen and follow your personal trainer on a 22\" HD touchscreen for cross-training. Features anti-fingerprint and anti-glare technology.<br\/><br\/><\/p>",
+        "link_text": "BUY BIKES",
+        "link_url": "shopify:\/\/pages\/commodity"
+      }
+    },
+    "162979857455551a62": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "ROCKSTAR INSTRUCTORS",
+        "image": "shopify:\/\/shop_images\/1_2.jpg",
+        "image_position": "right",
+        "content": "<p>From the world's top-notch studios such as Soulcycle, Flywheel, Equinox. Motivating and guiding you through every workout, every step of the way. <\/p>",
+        "link_text": "LET'S  GROOVE",
+        "link_url": "shopify:\/\/pages\/commodity"
+      }
+    },
+    "1631689750e9245514": {
+      "type": "text-with-image",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "image": "shopify:\/\/shop_images\/price1.21206.png",
+        "image_position": "left",
+        "content": "<p>Compare the cost of owning an xbike to your current monthly fitness costs. Calculate how much money you could save with xbike.<\/p>",
+        "link_text": "COMPARE NOW",
+        "link_url": "shopify:\/\/pages\/calculate"
+      }
+    },
+    "162911085435ed884b": {
+      "type": "slideshow",
+      "blocks": {
+        "162911085435ed884b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pink-product.png",
+            "mobile_image": "shopify:\/\/shop_images\/pink_productMb.png",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "BUY LIT BIKE L.E.",
+            "button_1_link": "shopify:\/\/pages\/lit-bike-klarna",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "162911085435ed884b-0"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#ffffff",
+        "button_background": "#02c0d9"
+      }
+    },
+    "16291107126de229c8": {
+      "type": "slideshow",
+      "blocks": {
+        "16291107126de229c8-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lit-bike-product.png",
+            "mobile_image": "shopify:\/\/shop_images\/lit-bike-productMb.png",
+            "apply_overlay": false,
+            "content_position": "bottomRight",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "SHOP LIT BIKE",
+            "button_1_link": "shopify:\/\/pages\/lit-bike",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16291107126de229c8-0"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#ffffff",
+        "button_background": "#02c0d9"
+      }
+    },
+    "16425113379a36e0ff": {
+      "type": "slideshow",
+      "blocks": {
+        "1642511337cc7f4611-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pre-order_banner_8b52e513-a72f-40d0-ab81-601867c4649f.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/20221211500.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "SHOP XBIKE",
+            "button_1_link": "shopify:\/\/products\/xbike",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1642511337cc7f4611-0"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "button_background": "#ffffff"
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "blocks": {
+        "blog-0": {
+          "type": "blog",
+          "settings": {
+            "blog": "brand-story"
+          }
+        }
+      },
+      "block_order": [
+        "blog-0"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "FEATURED BLOGS",
+        "show_category": false,
+        "button_link": "",
+        "button_text": ""
+      }
+    },
+    "16294530128e93c0ce": {
+      "type": "instafeed",
+      "settings": {
+        "heading_font": "montserrat_n9",
+        "heading_size": 30,
+        "feed_width": 100,
+        "html_area": ""
+      }
+    },
+    "162995693178230c72": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "Sub-heading",
+        "title": "home-bike-bottom",
+        "html": ""
+      }
+    },
+    "162979567591f14fc1": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "footer nav",
+        "html": "<p>Write your own custom HTML content<\/p>"
+      }
+    },
+    "16444616275921c95c": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "1644461627af942e50-0": {
+          "type": "image",
+          "settings": {
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "Slide title",
+            "title": "Tell your story",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "1644461627af942e50-1": {
+          "type": "image",
+          "settings": {
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "Slide title",
+            "title": "Tell your story",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1644461627af942e50-0",
+        "1644461627af942e50-1"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "button_background": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "16290830793ebe0edc",
+    "1642563391de8af1d9",
+    "1642510685c808ee74",
+    "1642581273ef0dd08d",
+    "1639625172bea750ca",
+    "1629726846f84e76ad",
+    "162945250647a08400",
+    "1629082876ba69851e",
+    "16290829921bce6622",
+    "162979857455551a62",
+    "1631689750e9245514",
+    "162911085435ed884b",
+    "16291107126de229c8",
+    "16425113379a36e0ff",
+    "blog-posts",
+    "16294530128e93c0ce",
+    "162995693178230c72",
+    "162979567591f14fc1",
+    "16444616275921c95c"
+  ]
+}
